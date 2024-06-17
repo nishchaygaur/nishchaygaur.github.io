@@ -61,7 +61,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact
 
 Your Name - [nishchaygaur40@gmail.com](nishchaygaur40@gmail.com)
-
+Project Link: [LINKEDIN LINK]([https://github.com/nishchaygaur/todolist](https://www.linkedin.com/posts/nishchay-gaur-286ba6290_webdevelopment-coding-project-activity-7208441715530088448-ibnk?utm_source=share&utm_medium=member_desktop))
 Project Link: [https://github.com/nishchaygaur/todolist](https://github.com/nishchaygaur/todolist)
 Preview: [Weather App](https://nishchaygaur.github.io/todolist/)
 
